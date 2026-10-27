@@ -1,0 +1,6 @@
+{
+  "name": "TENNIS CHAMPIONS 3D",
+  "description": "AAA-Quality 3D Tennis Game with realistic physics, smart AI, multiple court surfaces, tournament mode, and local multiplayer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
